@@ -4,5 +4,3 @@ world = ["sky","water", "fire", "land", "air"]
 # world.pop(3)
 world.remove("water")
 print(world)
-
-# print(world)
