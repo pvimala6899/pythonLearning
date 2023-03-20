@@ -1,0 +1,2 @@
+a="Vimal"
+print(a)
